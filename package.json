@@ -4,8 +4,8 @@
   "description": "Sample Unit Tests",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "watch": "jest --watch"
+    "test": "jest --coverage",
+    "watch": "jest --coverage --watch"
   },
   "repository": {
     "type": "git",
